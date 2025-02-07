@@ -14,13 +14,13 @@ This Rock Paper Scissors Game contains 7 choices:
 - Water
 
 ### Commands
-/play/rock - Selects Rock
-/play/fire - Selects Fire
-/play/scissors - Selects Scissors
-/play/sponge - Selects Sponge
-/play/paper - Selects Paper
-/play/air - Selects Air
-/play/water - Selects Water
+- /play/rock - Selects Rock
+- /play/fire - Selects Fire
+- /play/scissors - Selects Scissors
+- /play/sponge - Selects Sponge
+- /play/paper - Selects Paper
+- /play/air - Selects Air
+- /play/water - Selects Water
 
 /simulate POST - Simulates a match based on two choices.
 {
