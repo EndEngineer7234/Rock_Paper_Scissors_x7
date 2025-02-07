@@ -20,7 +20,7 @@ class SimulatedGame(BaseModel):
 
 @app.get("/")
 async def root():
-    return {"message": "Hello, World"}
+    return {"message": "GitHub link: https://github.com/EndEngineer7234/Rock_Paper_Scissors_x7"}
 
 option = [
     "Rock",

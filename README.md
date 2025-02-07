@@ -2,6 +2,8 @@
 
 This is a simple Rock Paper Scissors API that lets you play in your browser or through code! But this isn't any ordinary Rock Paper Scissors...
 
+https://rock-paper-scissors-x7.vercel.app/
+
 ### Choice Options
 
 This Rock Paper Scissors Game contains 7 choices: 
