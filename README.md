@@ -22,7 +22,7 @@ This Rock Paper Scissors Game contains 7 choices:
 /play/air - Selects Air
 /play/water - Selects Water
 
-/simulate - Simulates a match based on two choices.
+/simulate POST - Simulates a match based on two choices.
 {
     "choice1": String,
     "choice2": String
